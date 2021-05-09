@@ -6,7 +6,7 @@ I'm Zachary Robinson, a student who is interested in technology and computer pro
 [![Mail Badge](https://img.shields.io/badge/-robinson.zachary234-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:robinson.zachary234@gmail.com)
 
 - 🔭 I’m currently working on a **custom c++ list library**
-- :computer: Most used command line command `python main.py"`
+- :computer: Most used command line command `python main.py`
 - 🤔 I’m looking for a summer job or internship
 - 📫 How to reach me: robinson.zachary234@gmail.com.
 
